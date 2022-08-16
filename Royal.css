@@ -1,0 +1,62 @@
+.header
+{
+    width: 100%;
+    height: 100px;
+    
+    background-color: black;
+}
+.logo
+{
+    width: 200px;
+    height: 50px;
+    float: left;
+    padding-left: 34px;
+    padding-top: 30px;
+}
+.header-center
+{
+    max-width: 66.667%;
+    float: left;
+    padding-left: 100px;
+    height: 86px;
+    padding-top: 10px;
+}
+.text
+{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    padding-top: 40px;
+}
+.text1
+{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    padding-top: 40px;
+}
+.motor
+{
+    float: left;
+    padding-top: 30px;
+    padding-left: 192px;
+}
+.service
+{
+    float: left;
+    padding-left: 24px;
+    padding-top: 30px;
+    
+}
+.look-the-part
+{
+    float: left;
+    padding-top: 23px;
+    padding-left: 10px;
+}
+.text3
+{
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
